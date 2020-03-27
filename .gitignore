@@ -1,0 +1,13 @@
+data/*
+!data/.gitkeep
+catboost_info
+checkpoints/*
+!checkpoints/.gitkeep
+hdf5/*
+!hdf5/.gitkeep
+submission/*
+!submission/.gitkeep
+venv
+explanatory
+.idea
+__pycache__
